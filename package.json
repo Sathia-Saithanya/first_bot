@@ -1,0 +1,23 @@
+{
+  "name": "first_bot",
+  "version": "1.0.0",
+  "description": "learning bot creation using messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sathia-Saithanya/first_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sathia-Saithanya/first_bot/issues"
+  },
+  "homepage": "https://github.com/Sathia-Saithanya/first_bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
